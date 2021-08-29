@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ktor server</string>
+    <string name="notification_title">@string/app_name</string>
+    <string name="notification_message">ktor server is running</string>
+    <string name="channel_name">ktor Sever</string>
+    <string name="channel_description">Android server implementation using ktor</string>
+    <string name="response_placeholder">Enter response body</string>
+    <string name="start_server_button">Start Server</string>
+    <string name="stop_server_button">Stop Server</string>
+    <string name="localhost">http://localhost:8080</string>
+    <string name="open_url">open url %1$s</string>
+</resources>
